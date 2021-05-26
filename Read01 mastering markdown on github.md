@@ -13,17 +13,22 @@ You can style Text, have Lists, add Images, Headers & Quotes, Code...
 ###### heading6 
   
  2. Emphasis
+ 
+[*This text will be italic*]
 *This text will be italic*
-_This will also be italic_
 
+[**This text will be bold**]
 **This text will be bold**
-__This will also be bold__
+
 
 3. Images
+
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
-4. http://github.com - automatic!
+4.Links
+
+ http://github.com - automatic!
 [GitHub](http://github.com)
 
   
