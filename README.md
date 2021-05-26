@@ -3,7 +3,7 @@ I've always been interested in coding and technology, unfortunatly I have zero e
 
 # Table of Contents
 
-1. [Growth mindset]()
-2. [Read01 mastering markdown on github]()
-3. [Read02 Git intro]()
+1. [Growth mindset](https://daniakatalan.github.io/rreading-notes/Growth%20mindset)
+2. [Read01 mastering markdown on github](https://daniakatalan.github.io/rreading-notes/Read01%20mastering%20markdown%20on%20github)
+3. [Read02 Git intro](https://daniakatalan.github.io/rreading-notes/Read02%20Git%20intro)
 
