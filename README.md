@@ -8,4 +8,4 @@ I've always been interested in coding and technology, unfortunatly I have zero e
 3. [Read02 Git intro](https://daniakatalan.github.io/rreading-notes/Read02%20Git%20intro)
 4. [Read03](https://daniakatalan.github.io/rreading-notes/Read03)
 5. [Read04](https://daniakatalan.github.io/rreading-notes/Read04)
-6. [Read05]()
+6. [Read05](https://daniakatalan.github.io/rreading-notes/Read05)
