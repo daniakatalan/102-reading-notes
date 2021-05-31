@@ -9,3 +9,5 @@ I've always been interested in coding and technology, unfortunatly I have zero e
 4. [Read03](https://daniakatalan.github.io/rreading-notes/Read03)
 5. [Read04](https://daniakatalan.github.io/rreading-notes/Read04)
 6. [Read05](https://daniakatalan.github.io/rreading-notes/Read05)
+7. [Read06](https://daniakatalan.github.io/rreading-notes/Read06)
+8. [Read06b](https://daniakatalan.github.io/rreading-notes/Read06b)
