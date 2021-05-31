@@ -18,3 +18,11 @@ It can even be used for effects such as animation. Have a look at the links in t
 # CSS syntax
 CSS is a rule-based language — you define rules specifying groups of styles that should be applied to particular elements or groups of elements on your web page.
 For example "I want the main heading on my page to be shown as large red text."
+
+# How To Add CSS?
+
+There are three ways of inserting a style sheet:
+
+* External CSS
+* Internal CSS
+* Inline CSS
