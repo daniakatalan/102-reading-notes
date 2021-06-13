@@ -22,7 +22,7 @@ I've always been interested in coding and technology, unfortunatly I have zero e
 2. [Read2]()
 3. [Read3](https://daniakatalan.github.io/reading-notes/class-03)
 4. [Read4](https://daniakatalan.github.io/reading-notes/class-04)
-5. [Read5](https://daniakatalan.github.io/reading-notes/class-0)
+5. [Read5](https://daniakatalan.github.io/reading-notes/class-05)
 6. [Read6]()
 7. [Read7]()
 8. [Read8]()
